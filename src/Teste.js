@@ -1,3 +1,3 @@
-const Algo = (a) => {
-  console.log(a);
+const Algo = (ab) => {
+  console.log(ab);
 };
