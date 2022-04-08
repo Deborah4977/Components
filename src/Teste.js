@@ -1,3 +1,2 @@
-const Algo = (ab) => {
-  console.log(ab);
-};
+const A = 64;
+A++;
